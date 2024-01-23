@@ -34,4 +34,4 @@
 
 
 
-על מנת לשחק במשחק [לחץ כאן](https://adinahmias.itch.io)
+על מנת לשחק במשחק [click here](https://adinahmias.itch.io)
