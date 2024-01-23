@@ -32,5 +32,5 @@
 ![image](https://github.com/AdiNahmias/SpaceShip/assets/118722490/e15bcad3-029b-43f6-9f27-59cbbb429498)
 
 
-3.
+
 על מנת לשחק במשחק [לחץ כאן](https://adinahmias.itch.io)
